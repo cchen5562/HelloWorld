@@ -1,3 +1,6 @@
+//Hello World
+//Cristina Chen
+
 package application;
 	
 import javafx.application.Application;
